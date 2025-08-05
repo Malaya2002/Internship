@@ -1,0 +1,28 @@
+div{
+    height: 100px;
+    width: 25px;
+    background-color: aqua;
+    padding: 6px 6px 6px 6px;
+    border: 2px;
+}
+
+#red{
+    height: 10px;
+    width: 10px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+#yellow{
+    height: 10px;
+    width: 10px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+#green{
+    height: 10px;
+    width: 10px;
+    background-color: green;
+    border-radius: 50%;
+}
